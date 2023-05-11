@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Pune,India",
+    "airportname": "Pune Airport",
+    "service": "PNQ"
+  },
+  {
+    "id": 2,
+    "name": "New Delhi, India",
+    "airportname": "Indira Gandhi International Airport",
+    "service": "DEL"
+  },
+  {
+    "id": 3,
+    "name": "Mumbai,India",
+    "airportname": "Chhatrapati Shivaji International Airport",
+    "service": "BOM"
+  },
+  {
+    "id": 4,
+    "name": "Bangkok, Thailand",
+    "airportname": "Bangkok",
+    "service": "BBK"
+  },
+  {
+    "id": 5,
+    "name": "Bengaluru, India",
+    "airportname": "Bengaluru International Airport",
+    "service": "BLR"
+  },
+  {
+    "id": 6,
+    "name": "Kolkata,India",
+    "airportname": "Netaji Subhash Chandra Bose International Airport",
+    "service": "CCU"
+  },
+  {
+    "id": 7,
+    "name": "Goa - Dabolim Airport, India",
+    "airportname": "Goa Dabolim International Airport",
+    "service": "GOI"
+  },
+  {
+    "id": 8,
+    "name": "Dubai, United Arab Emirates",
+    "airportname": "Dubai International",
+    "service": "DXB"
+  },
+  {
+    "id": 9,
+    "name": "Chennai, India",
+    "airportname": "Chennai International Airport",
+    "service": "MAA"
+  },
+  {
+    "id": 10,
+    "name": "Hyderabad, India",
+    "airportname": "Rajiv Gandhi International Airport",
+    "service": "HYD"
+  }
+]
